@@ -6,3 +6,4 @@ Each PP idiom consists of a multiple word expression (MWE), i.e., containing at 
 Files
 -----
 - ACKNOWLEDGMENTS.md: Contributors and support that made this dataset possible.
+- pp-begin.txt: entries beginning with a preposition, with senses, a part of speech, and a definition
