@@ -1,0 +1,96 @@
+a least	p.Approximator	p.Approximator
+ahead of time	p.Time	p.Time
+among other	p.Whole	p.Whole
+around corner	p.Locus	p.Locus
+around the clock	p.Time	p.Time
+around the corner	p.Locus	p.Locus
+as usual	p.ComparisonRef	p.ComparisonRef
+at a premium	p.Cost	p.Cost
+at all cost	p.Manner	p.Manner
+at all	p.Extent	p.Extent
+at best	p.Extent	p.Extent
+at fault	p.Manner	p.Locus
+at first	p.Time	p.Time
+at least	p.Approximator	p.Approximator
+at least	p.Extent	p.Extent
+at peace	p.Manner	p.Locus
+back and forth	p.Direction	p.Direction
+behind the wheel	p.Locus	p.Locus
+by any stretch of the imagination	p.Extent	p.Extent
+by far	p.Extent	p.Extent
+for free	p.Cost	p.Cost
+for the most part	p.Extent	p.Extent
+from Hell	p.Manner	p.Source
+from standpoint	p.Locus	p.Source
+in business	p.Manner	p.Locus
+in detail	p.Manner	p.Manner
+in every way	p.Extent	p.Extent
+in experience	p.Circumstance	p.Circumstance
+in hope to	p.Purpose	p.Purpose
+in hurry	p.Manner	p.Locus
+in large part	p.Extent	p.Extent
+in limbo	p.Manner	p.Locus
+in line	p.Manner	p.Locus
+in love	p.Manner	p.Locus
+in luv	p.Manner	p.Locus
+in no time	p.Duration	p.Duration
+in pain	p.Manner	p.Locus
+in person	p.Manner	p.Locus
+in stock	p.Manner	p.Locus
+in the best interest	p.Manner	p.Locus
+in the end	p.Circumstance	p.Circumstance
+in the mean time	p.Time	p.Time
+in this day and age	p.Time	p.Time
+in time of need	p.Circumstance	p.Circumstance
+in time	p.Manner	p.Locus
+in town	p.Locus	p.Locus
+in traffic	p.Manner	p.Locus
+just about	p.Approximator	p.Approximator
+nothing but	p.Part/Portion	p.Part/Portion
+of all time	p.Extent	p.Whole
+of late	p.Time	p.Time
+off the bat	p.Time	p.Time
+on a basis	p.Frequency	p.Manner
+on a budget	p.Manner	p.Locus
+on a whim	p.Explanation	p.Manner
+on all level	p.Extent	p.Extent
+on call	p.Manner	p.Locus
+on duty	p.Manner	p.Locus
+on hold	p.Manner	p.Locus
+on line	p.Goal	p.Locus
+on own	p.Manner	p.Manner
+on purpose	p.Manner	p.Manner
+on schedule	p.Manner	p.Locus
+on staff	p.OrgRole	p.Locus
+on the cheap	p.Manner	p.Locus
+on the lookout	p.Manner	p.Locus
+on the market	p.Manner	p.Locus
+on the phone	p.Manner	p.Locus
+on the side	p.Manner	p.Locus
+on the spot	p.Circumstance	p.Circumstance
+on time	p.Manner	p.Locus
+on way	p.Manner	p.Locus
+out front	p.Locus	p.Source
+out of business	p.Manner	p.Locus
+out of control	p.Manner	p.Locus
+out of date	p.Manner	p.Locus
+out of the ordinary	p.Manner	p.Locus
+out of the way	p.Source	p.Source
+out of town	p.Locus	p.Source
+out of way	p.Path	p.Path
+out there	p.Locus	p.Locus
+over the phone	p.Instrument	p.Path
+over the year	p.Duration	p.Duration
+to date	p.Duration	p.Duration
+to death	p.Extent	p.Extent
+to face	p.Goal	p.Goal
+to my surprise	p.Goal	p.Goal
+under circumstance	p.Circumstance	p.Locus
+under warranty	p.Manner	p.Locus
+up and run	p.Manner	p.Locus
+up front	p.Locus	p.Locus
+up to date	p.Manner	p.Locus
+up to par	p.Manner	p.Locus
+with fly color	p.Manner	p.Manner
+with good reason	p.Explanation	p.Explanation
+with the way it be	p.Circumstance	p.Circumstance
