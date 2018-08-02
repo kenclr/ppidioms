@@ -28,3 +28,8 @@ Data for Ending PP Idioms
 
 Data for PP Idioms in Streusle Corpus
 -------------------------------------
+- Streusle-4.0.PPIdioms.parse: The 170 lines from the Streusle parses that have a LEXLEMMA PP (13th column), indicating that the annotators felt the presence of PP idiom
+- Streusle-4.0.PPIdioms-sorted.tsv: Parsed lines from above sorting the PP idioms
+- Streusle-4.0.PPIdioms-unique.tsv: List of the 95 unique idioms in these lines
+- Streusle-4.0.PPIdioms-stats.tsv: Statistics about the 95 idioms: a count of their frequency, whether having different role and function supersenses, whether found in a dictionary, and comments about the idiom if not found in the dictionary
+- Streusle-4.0.PPIdioms-analysis.tsv: Summary analysis for each idiom whether found and analysis in two dictionaries
