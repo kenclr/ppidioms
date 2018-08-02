@@ -33,3 +33,4 @@ Data for PP Idioms in Streusle Corpus
 - Streusle-4.0.PPIdioms-unique.tsv: List of the 95 unique idioms in these lines
 - Streusle-4.0.PPIdioms-stats.tsv: Statistics about the 95 idioms: a count of their frequency, whether having different role and function supersenses, whether found in a dictionary, and comments about the idiom if not found in the dictionary
 - Streusle-4.0.PPIdioms-analysis.tsv: Summary analysis for each idiom whether found and analysis in two dictionaries
+- Streusle-4.0.PPIdioms-construal.tsv: Role and function supersenses for each idiom (highlighting differences)
